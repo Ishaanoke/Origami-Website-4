@@ -1,0 +1,16 @@
+h2{
+    color:#ff0000;
+}
+
+.miniheader{
+    background-color:#34aa43;
+    display: flex;
+flex-wrap: wrap;
+padding-left: 30px;
+margin: 20px;
+border:solid;
+}
+.container{
+    background-color: #ffffff;
+    padding-left: 450px;
+}
